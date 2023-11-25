@@ -1,4 +1,5 @@
 # spring-initializr-Java8
+本项目是spring-io/start.spring.io项目的最后支持spring2.x的版本
 spring官网的initiallizer不支持spring2.x和Java8了，给使用社区版idea的学习者增加了很多苦恼
 这里放一个支持spring2.x和Java8的jar包
 ## 使用方法
